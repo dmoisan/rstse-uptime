@@ -39,23 +39,23 @@ UPTIME Options:
 /HELP  -- Prints this message
 
 If UPTIME is invoked outside CCL (RUN$UPTIME), the full report is printed.
-UPTIME in CCL (UP-TIME) will default to the short (/SHORT) report.`
+UPTIME in CCL (UP-TIME) will default to the short (/SHORT) report.
 
 UPTIME
-System uptime    : 27 day(s), 19:46:24'
+System uptime    : 27 day(s), 19:46:24
 
 UPTIME/BOOT
-System started at: 14-Feb-24 09:41 PM`
+System started at: 14-Feb-24 09:41 PM
 
 UPTIME/FULL
 RSTS V7.0-07 DM Prod RSTS/E
 System uptime    : 27 day(s), 19:47:58
-System started at: 14-Feb-24 09:41 PM`
+System started at: 14-Feb-24 09:41 PM
 
 RUN$UPTIME
 RSTS V7.0-07 DM Prod RSTS/E
 System uptime    : 27 day(s), 20:15:21
-System started at: 14-Feb-24 09:41 PM`
+System started at: 14-Feb-24 09:41 PM
 ```
 
 This is dedicated to all former (and current!) RSTS/E system administrators.  This was the first computer I ever used, in high school, and it has brought me nearly 40 years in the field.
