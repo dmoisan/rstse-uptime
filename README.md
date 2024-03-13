@@ -7,7 +7,7 @@ Follow these steps to install it:
 1. Open `UPTIME.BAS` in a text editor.
 2. Open a session to your RSTS/E system in a terminal program on the same machine; the RSTS/E system can be physical or virtual.
 3. Log on to RSTS/E using the system account [1,2], as in typing `HELLO 1,2`.  The default password is usually `SYSTEM`.
-4. You should have a "`Ready`" prompt.  If not, type SW BASIC`.
+4. You should have a `Ready` prompt.  If not, type `SW BASIC`.
 5. Type `NEW UPTIME`.
 6. Select and copy all the text in your text editor.
 7. Paste it in your terminal window, and hit Enter.
