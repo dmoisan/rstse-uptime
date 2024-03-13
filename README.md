@@ -23,7 +23,7 @@ Follow these steps to install it:
 17. Hit Enter, and Control-Z to exit INSERT mode
 18. Type EXIT. EDT will tell you that 49 lines (or so) have been written.
 19. Reboot RSTS/E for the changes to take effect.
-20. UPTIME can now be invoked with UPTIME or simply UP
+20. UPTIME can now be invoked with UPTIME or simply UP.
 
 Example output:
 
@@ -50,6 +50,15 @@ RSTS V7.0-07 DM Prod RSTS/E
 System uptime    : 27 day(s), 19:47:58
 System started at: 14-Feb-24 09:41 PM
 
+RUN$UPTIME
+RSTS V7.0-07 DM Prod RSTS/E
+System uptime    : 27 day(s), 20:15:21
+System started at: 14-Feb-24 09:41 PM
+
+This is dedicated to all former (and current!) RSTS/E system administrators.  This was the first computer I ever used, in high school, and it has brought me nearly 40 years in the field.
+Keep running!
+
+-- David C. Moisan
 
 
 
