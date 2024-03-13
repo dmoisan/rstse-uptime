@@ -76,6 +76,7 @@
 16030 PRINT "/BOOT  -- Prints time of current boot"
 16040 PRINT "/FULL  -- Prints full uptime report with banner"
 16050 PRINT "/DEBUG -- Prints debugging messages"
+16055 PRINT "/HELP  -- Prints this message"
 16060 PRINT
 16070 PRINT "If UPTIME is invoked outside CCL (RUN$UPTIME)," 
 16080 PRINT "the full report is printed."
