@@ -35,6 +35,7 @@ UPTIME Options:
 /BOOT  -- Prints time of current boot
 /FULL  -- Prints full uptime report with banner
 /DEBUG -- Prints debugging messages
+/HELP  -- Prints this message
 
 If UPTIME is invoked outside CCL (RUN$UPTIME), the full report is printed.
 UPTIME in CCL (UP-TIME) will default to the short (/SHORT) report.
