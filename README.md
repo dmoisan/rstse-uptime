@@ -28,13 +28,19 @@ Follow these steps to install it:
 Example output:
 
 UPTIME/HELP:
+
 UP/HELP
+
 UPTIME Options:
 
 /SHORT -- Prints brief uptime message without banner
+
 /BOOT  -- Prints time of current boot
+
 /FULL  -- Prints full uptime report with banner
+
 /DEBUG -- Prints debugging messages
+
 /HELP  -- Prints this message
 
 If UPTIME is invoked outside CCL (RUN$UPTIME), the full report is printed.
