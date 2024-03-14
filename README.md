@@ -2,7 +2,7 @@ UPTIME.BAS is a RSTS/E BASIC-PLUS system program that will display the current u
 It is based on the original SYSTAT command-line utility in RSTS/E.
 It has been tested to run in RSTS/E V7 and V10.1, and it should run in any RSTS/E system in existence, physical or virtual.
 
-Installation instructions for V7 and V8 or later have been put in separate files.
+Installation instructions are included for RSTS/E V7 and RSTS/E V8/V9/V10.
 
 
 Example output:
