@@ -1,3 +1,4 @@
+Installation instructions for RSTS/E V8, V9 and V10:
 1. Open `UPTIME.BAS` in a text editor.
 2. Open a session to your RSTS/E system in a terminal program on the same machine; the RSTS/E system can be physical or virtual.
 3. Log on to RSTS/E using the system account [1,2], as in typing `HELLO 1,2`.  The default password is usually `SYSTEM`.
