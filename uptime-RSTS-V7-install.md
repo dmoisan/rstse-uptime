@@ -21,4 +21,4 @@ Instructions for RSTS/E V7:
 19. Hit Enter, and Control-Z to exit INSERT mode
 20. Type EXIT. EDT will tell you that 49 lines (or so) have been written.
 21. Reboot RSTS/E for the changes to take effect.
-22. UPTIME can now be invoked with `UPTIME` or simply `UP`.
+22. UPTIME can now be invoked with `UPTIME` or simply `UP`. This command will run in any account, privileged or unprivileged.
