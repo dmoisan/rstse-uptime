@@ -1,4 +1,4 @@
-Instructions for RSTS/E V7:
+Installation Instructions for RSTS/E V7:
 
 1. Open `UPTIME.BAS` in a text editor.
 2. Open a session to your RSTS/E system in a terminal program on the same machine; the RSTS/E system can be physical or virtual.
